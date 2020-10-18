@@ -1,4 +1,9 @@
+github.com/gohugoio/hugoTestModules1_linux v0.0.0-20201018084128-11387ff56435 h1:zS9IIVQI8vxVTvtV46tzly3wwHSG94lNxhCQPYXVmag=
 github.com/gohugoio/hugoTestModules1_linux/modh2_2_1v v1.3.0 h1:N+wMARz6wwWozB04KWDDxMopQ2EO2DSsJp5dhq7bh9o=
 github.com/gohugoio/hugoTestModules1_linux/modh2_2_1v v1.3.0/go.mod h1:qFmWfVsJ4ShN5JkWRqOn1ZhGMDfM5jViyTDtOurw8qE=
+github.com/gohugoio/hugoTestModules1_linux/modh2_2_1v v1.4.0 h1:kJUrV0Ngz2Td2nVTVpxTaUhmrkyzuVO6bQwWBpiwQww=
+github.com/gohugoio/hugoTestModules1_linux/modh2_2_1v v1.4.0/go.mod h1:qFmWfVsJ4ShN5JkWRqOn1ZhGMDfM5jViyTDtOurw8qE=
 github.com/gohugoio/hugoTestModules1_linux/modh2_2_2 v1.3.0 h1:ZJ5MzJpiC/BW94mKH3MCuw/9Sf7X1l+McSiWiJVhWNQ=
 github.com/gohugoio/hugoTestModules1_linux/modh2_2_2 v1.3.0/go.mod h1:xWR5NSZYtwOI5E2fc84UrJzHL0j8lNfugS3Z4TMp93o=
+github.com/gohugoio/hugoTestModules1_linux/modh2_2_2 v1.4.0 h1:6p2nJWsUMpTVBN00BOq9yRxwZnRDSwYKzfIGDbh3wB8=
+github.com/gohugoio/hugoTestModules1_linux/modh2_2_2 v1.4.0/go.mod h1:xWR5NSZYtwOI5E2fc84UrJzHL0j8lNfugS3Z4TMp93o=
